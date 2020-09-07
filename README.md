@@ -9,9 +9,9 @@ following:
 1. Colab notebook “Abstractive_Text_Summariser.ipynb” to be executed in Google Colab since
 only the missing libraries in Google Colab have been included in the *pip install* commands.
 2. Two datasets – news_summary_more.csv which is the file used for training and validation and
-news_summary_test.csv which has the test data to be demonstrated on the day of demo.
+news_summary_test.csv which has the test data to be demonstrated on the day of demo. (*Please send a request to nethra.viswanathan@gmail.com for dataset*)
 3. Custom attention layer “attention.py” which is imported into the notebook
-4. The weights of the trained model “s2s_lstm_weights_adam.h5” for testing the model.
+4. The weights of the trained model “s2s_lstm_weights_adam.h5” for testing the model. (*Not provided here*)
 5. Figure “LossPlot.png” which is the plotted graph of training and validation loss stored as an
 image for retrieval.
 6. The text file “logswrite.txt” which has a record of the corpus and sentence wise BLEU score for a
@@ -38,4 +38,3 @@ been implemented in Python 3.7.
 conda env create --file environment.yml
 conda activate TextSummariser
 
-The data set is available in my Google drive. Kindly send a request to netra.viswanathan@gmail.com for the dataset.
