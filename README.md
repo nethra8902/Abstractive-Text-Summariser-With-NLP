@@ -37,3 +37,5 @@ been implemented in Python 3.7.
 
 conda env create --file environment.yml
 conda activate TextSummariser
+
+The data set is available in my Google drive. Kindly send a request to netra.viswanathan@gmail.com for the dataset.
