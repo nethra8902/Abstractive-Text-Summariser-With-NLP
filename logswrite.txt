@@ -1,0 +1,201 @@
+Bleu score corpus: 0.7413886782339139 
+ ref : aadhaar ghost students getting mid day meals , prediction:  aadhaar card found in maharashtra temple, score: 0.7644270467420534
+
+ref : flipkart phonepe looking to raise bn by report , prediction:  flipkart to buy flipkart flipkart for billion in flipkart, score: 0.6880640060880959
+
+ref : prison officials agree vk sasikala given special treatment , prediction:  cbi rejects reports of sasikala resigning, score: 0.7730551756939454
+
+ref : your brother is more honest omar to cm on death , prediction:  azam khan is illiterate like terrorists bjp, score: 0.7226568811456053
+
+ref : boxer amir khan attacked and chased by gang in manchester , prediction:  pak pacer shot dead after breaking car riding in, score: 0.7438301789874407
+
+ref : mumbai celebrate icj order on kulbhushan sentence , prediction:  mumbai blasts mastermind shifted to pakistan, score: 0.7721947901921794
+
+ref : yr old girl forced to drink alcohol molested by brother , prediction:  year old girl drugged gangraped by husband in delhi, score: 0.7203294535577252
+
+ref : resigns from all congress posts , prediction:  rahul gandhi is desperate congress on rahul gandhi, score: 0.7105477917053864
+
+ref : gambling firm fined record crore on not protecting users , prediction:  over crore in india after loss of crore, score: 0.7550415303475492
+
+ref : offers support to man who drew ms word on board , prediction:  microsoft apologises for using animated photo with, score: 0.7364279629037999
+
+ref : do not understand tharoor foreign accent piyush goyal , prediction:  jaitley apologises for removal of jaitley on rafale deal, score: 0.7162326270441588
+
+ref : ceo of nse earned crore in her last eight months , prediction:  ceo earned crore in salary of in last years, score: 0.7372633901833245
+
+ref : samsung manufacturing bitcoin mining hardware reports , prediction:  samsung samsung samsung loses bn in its first test, score: 0.7238348098810832
+
+ref : luru police road safety campaign goes viral , prediction:  mumbai police station uses helmets to promote helmet, score: 0.7169073641343396
+
+ref : bombay hc criticises state for condition of tribal schools , prediction:  gorakhpur hospital to be alive for gorakhpur tragedy hc, score: 0.719408902854813
+
+ref : maha govt aid to farmers cruel joke opposition , prediction:  ncp ncp demands afspa for ncp mp, score: 0.7765453555044466
+
+ref : mumbai man arrested for calling woman sex worker on facebook , prediction:  mumbai man arrested for molesting woman in mumbai, score: 0.7636066981663598
+
+ref : mlc demands pass for bullock cart amid fuel price hike , prediction:  delhi cm sarkar to declare bullock cart in delhi, score: 0.7674731847914632
+
+ref : railway stations to get govt shops providing cheap medicines , prediction:  government launches stations to get makeover, score: 0.7598356856515925
+
+ref : legend hails dipa impact on gymnastics in india , prediction:  world oldest player retires from th century at asian games, score: 0.721634009677548
+
+ref : govt may sell stake in coal india to meet target , prediction:  government to invest bn in air india sale, score: 0.7598356856515925
+
+ref : hc pulls up iaf for officer to psychiatric ward , prediction:  delhi hc allows to abort week old passport, score: 0.7553789791604315
+
+ref : man adds rolls royce jet engine to volkswagen truck , prediction:  man drives truck into electric truck in bengaluru, score: 0.7636066981663598
+
+ref : prove padmavati dubai funding allegation to swamy , prediction:  didn know about thackeray trauma against me paresh, score: 0.7598356856515925
+
+ref : india gives cr in post quake aid to nepal , prediction:  india has lost crore in war than humanitarian, score: 0.7291155827927387
+
+ref : engineering student abducted gangraped in agra arrested , prediction:  arrested for raping minor gangraped in bihar, score: 0.7186082239261684
+
+ref : to start economy ac coach with fares less than ac , prediction:  railways to get sanitary napkins from trains, score: 0.7468422531048421
+
+ref : loved allen but on child abuse row , prediction:  was molested by me in my life gulshan, score: 0.7790872728179328
+
+ref : president kovind accepts upendra kushwaha resignation , prediction:  president kovind takes oath as president kumar, score: 0.7516200388933441
+
+ref : kl rahul ruled out of ipl because of injury , prediction:  rahul dravid to play vijay rahul after getting retweets, score: 0.7422756664604733
+
+ref : over class students will not give hrd minister , prediction:  rajya sabha schools to get medical evaluation, score: 0.7796914510717229
+
+ref : madrid set up fake site to improve club image report , prediction:  barcelona to sue barcelona over crore, score: 0.749634235443537
+
+ref : injured in shooting near us national security agency , prediction:  killed injured in shooting at church in us, score: 0.7810213065790322
+
+ref : amitabh bachchan to donate crore to army widows farmers , prediction:  amitabh bachchan donates crore to kerala central bank, score: 0.7135650476426908
+
+ref : phone calls not sim card approved by government , prediction:  trai to launch app mobile numbers for telcos, score: 0.7598356856515925
+
+ref : imran khan elected as prime minister of pakistan , prediction:  imran khan pti head imran khan to contest elections, score: 0.7447819789879647
+
+ref : shark with lakh twitter followers goes missing , prediction:  video shows thrones collection of black hole in us, score: 0.7238348098810832
+
+ref : monkeys learn to talk from adults like human infants study , prediction:  scientists discover new species of, score: 0.7311104457090247
+
+ref : general electric to take crore after leaving , prediction:  ceo earned crore in day after years, score: 0.7259795291154771
+
+ref : new zealand first cat killed in car accident , prediction:  leopard dies after falling from london bridge collapse, score: 0.6834466815318615
+
+ref : court dismisses raymond md plea against father autobiography , prediction:  delhi court restrains aib for calling wife, score: 0.7929487456557408
+
+ref : son drives car to mark th year of st win , prediction:  son son son misses gold at wrestling ship, score: 0.7458878201607712
+
+ref : nobody ready to take up let leadership in police chief , prediction:  hizbul mujahideen militants involved in encounter in kashmir, score: 0.7156448279220523
+
+ref : ex bihar cm jagannath mishra acquitted in fodder scam case , prediction:  cbi summons lalu prasad yadav in fodder scam case, score: 0.727427152512826
+
+ref : indian states have gdp equal to that of country , prediction:  india to get up defence personnel in india, score: 0.7810213065790322
+
+ref : tamil nadu man with hiv poisons daughters attempts suicide , prediction:  man kills self after hospital kills himself in hospital, score: 0.6941268297866866
+
+ref : cpm candidate set on fire injured amid wb poll violence , prediction:  bajrang dal leader dies after allegedly stabbed in uttar pradesh, score: 0.6930977286178778
+
+ref : uk man jailed for yrs over acid attack that injured , prediction:  us man dies after killing of living in australia, score: 0.7559289460184544
+
+ref : delhi police arrest mastermind of band baraat gang , prediction:  delhi police arrest four homeless girls in delhi, score: 0.7674731847914632
+
+ref : player buys germany norway match tickets for charity , prediction:  french football team wc kick card for wc, score: 0.7903765226488096
+
+ref : youngest person to give birth was only years old , prediction:  world oldest person aged transplant transplant transplant, score: 0.6880640060880959
+
+ref : am so inspired hillary meets guj self women after yrs , prediction:  former us vice president biden to hire women, score: 0.7598356856515925
+
+ref : lakh died due to pollution in india in report , prediction:  india to invest in india most expensive cities in india, score: 0.633160218956179
+
+ref : india beat windies by runs to defend record total , prediction:  india beat australia to take wickets in odi series, score: 0.7364279629037999
+
+ref : head constable shoots self dead at delhi secretariat , prediction:  man shot dead in delhi over death penalty, score: 0.7311104457090247
+
+ref : black friday online sales in us cross record billion , prediction:  us based brand shares fall after bn sales sales, score: 0.6918912876154527
+
+ref : air india aims to raise crore through land assets sale , prediction:  air india to raise crore from the year, score: 0.7598356856515925
+
+ref : tn girl suspended after celebrating bhagat singh birth anniv , prediction:  yr old girl scores from school prom in tamil nadu, score: 0.7521206186172787
+
+ref : mithali raj becomes most capped player in women odis , prediction:  mithali raj named indian spinner in odis, score: 0.7777264164917724
+
+ref : yogi adityanath gets plus category vvip security cover , prediction:  india to build peaceful states to enter sabarimala, score: 0.7238348098810832
+
+ref : italian court acquits executives in agustawestland case , prediction:  brazil prez michel charged with graft in inx media, score: 0.7105477917053864
+
+ref : inmobi co founder mohit saxena to step down as cto , prediction:  google co founder startup singh joins startup, score: 0.7556720457448196
+
+ref : dubai opens world tallest hotel breaks own record by , prediction:  world tallest cruise ship opens in dubai, score: 0.8024468307724723
+
+ref : flooded train station turned into swimming pool in sweden , prediction:  video shows mumbai waterfall for selfie with beach, score: 0.7238348098810832
+
+ref : india legal system will be at icj bhandari , prediction:  icj rejects nomination of india as icj judge, score: 0.7331329005620809
+
+ref : of india energy capacity from non fossils by , prediction:  india to build nuclear power plant in iran, score: 0.7415129228605242
+
+ref : years since rafael nadal made his professional debut , prediction:  year old australian woman breaks his th successive title, score: 0.7389984311706962
+
+ref : kashmir youth have to choose either tourism or terrorism pm , prediction:  youth can fulfil youth to fulfil surgical strikes pm, score: 0.7293799946522604
+
+ref : tamil industry to speak as voice haasan on theatre strike , prediction:  haasan haasan shutdown of rajinikanth tamil nadu theatres, score: 0.7131252538759287
+
+ref : youtube faces brief outage in us japan and australia , prediction:  youtube to play youtube video of gmail, score: 0.7740443718000138
+
+ref : alia bhatt shares workout video on instagram , prediction:  alia bhatt shares video of her playing on mehendi, score: 0.7521206186172787
+
+ref : yr old gujarat boy becomes youngest to clear ca cs , prediction:  year old girl in karnataka village gets highest job, score: 0.7203294535577252
+
+ref : man scales metre skyscraper without arrested , prediction:  russian man throws himself into skyscraper to stop, score: 0.7707713836060629
+
+ref : residents clash with army for closing road leading to mosque , prediction:  army jawan injured in srinagar over communal clashes, score: 0.7525636942843138
+
+ref : cong govt contractual staff for election hc , prediction:  punjab cm hs phoolka resigns from government, score: 0.7721947901921794
+
+ref : still interested in patanjali as adani backs out , prediction:  india will pay for lakh to reach india md, score: 0.7458878201607712
+
+ref : arbaaz sohail to be st guests on kapil show report , prediction:  salman khan to replace salman khan in dabangg reports, score: 0.7259795291154771
+
+ref : aamir has now earned more goodwill than tata birla paresh , prediction:  paresh rawal sinha to retire from november, score: 0.7685209321928833
+
+ref : flying squads surveillance teams deployed in taka , prediction:  goa election poll dates are not avoided poll poll, score: 0.7400828044922853
+
+ref : london tower fire began in fridge freezer confirm police , prediction:  killed in fire at california wildfire in paris, score: 0.7387670965262431
+
+ref : us woman pays water bill with coins , prediction:  woman makes emergency bill to shut down after years, score: 0.7561559858236034
+
+ref : deepika padukone bridal costs lakh report , prediction:  deepika padukone to buy wedding worth crore reports, score: 0.7447819789879647
+
+ref : ed attaches zakir naik led foundation assets worth cr , prediction:  armed forces to invest cr in valley in delhi, score: 0.7468422531048421
+
+ref : horrible with taxes it is like icse chemistry ali fazal , prediction:  am not practical for money to be ali fazal, score: 0.7553789791604315
+
+ref : two militants involved in camp attack arrested , prediction:  terrorists killed in encounter in kashmir, score: 0.7598356856515925
+
+ref : over kg firecrackers seized people held post sc ban , prediction:  delhi police arrests toll plaza in delhi, score: 0.7777264164917724
+
+ref : sensex rose points to close at record high of , prediction:  sensex nifty close points nifty ends below, score: 0.7415129228605242
+
+ref : boy killed in with classmate over pair of scissors , prediction:  year old girl dies after being mistaken for, score: 0.7765453555044466
+
+ref : in pictures delhi celebrates its th pride , prediction:  mumbai celebrates eid with tricolour, score: 0.7699019277569183
+
+ref : nicki minaj offers to pay tuition fees for fans , prediction:  lionel messi donates lakh for lakh, score: 0.7652058832556895
+
+ref : mithun son wedding called off as police reach venue report , prediction:  salman khan son arrested for allegedly assaulting minor girl, score: 0.7156448279220523
+
+ref : top aus cop who called indians quits over racism , prediction:  australian police officer accused of molestation, score: 0.7438301789874407
+
+ref : wikipedia up not my birthday today malaika arora , prediction:  malaika arora shares pic of her twins, score: 0.7790872728179328
+
+ref : int cricket returns to pakistan with world xi series , prediction:  india first indian to play pakistan in pakistan, score: 0.7071067811865476
+
+ref : to donate cr to time up over pay row , prediction:  jk house paid for crore on instagram, score: 0.7699019277569183
+
+ref : goldman sachs ceo apologises to malaysian people for scandal , prediction:  goldman sachs ceo shikha sharma shikha sharma shikha sharma, score: 0.6950150297221263
+
+ref : new added to tests in maha schools , prediction:  iit kanpur students to be revamped to students, score: 0.6791653730973352
+
+ref : builds foot bridge with fallen trees in flood hit kerala , prediction:  army inducts foot overbridge from bridge in kerala, score: 0.748406329216425
+
+ref : school boy murder could have been averted cbse to sc , prediction:  cbse class student kills self for class students, score: 0.717689872882231
+
+ref : rocket for india first rocket launch was carried on cycle , prediction:  spacex completes rocket launch of iss, score: 0.7926416986492341
+
