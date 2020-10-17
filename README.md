@@ -1,5 +1,8 @@
 # Abstractive-Text-Summariser-With-NLP
-*By Nethra Viswanathan, Brindha Mariappan, Hemapriya Kishorevenkatram*
+* **Completed by:** 
+  Nethra Viswanathan
+  Brindha Mariappan
+  Hemapriya Kishorevenkatram *
 
 Text Summarization recapitulate the content available in articles, research paper, news, paragraph or a piece of information. Automatic Text Summarization is made possible in Natural Language Processing (NLP) by employing two types of summarization techniques viz., 1) Extractive Summarization and 2) Abstractive Summarization. Extractive summarization generates summary by extracting the verbatim from the original passage whereas Abstractive summarization generates summary either by paraphrasing or by using new words instead of extracting the main points. A comprehensive news article and summary dataset has been chosen from Kaggle and the latter method of summarisation is employed in our coursework which calls for an abstractive modelling approach using sequence to sequence Long Short-Term Memory (LSTM) model. BLEU scoring technique has been used for evaluating the accuracy of the model owing to the extensive usage of the same for many of the models involving Natural Language Processing.
 
